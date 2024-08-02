@@ -1,0 +1,12 @@
+pendiente
+1. agregar onclick on buttom
+2. cambiar colores: amarrillo, negro, blaco
+3. agrefar focas
+4. agregar voz narrativa
+
+Contenido
+historia, pasado, presente y futuro
+1. momentos(fotos y videos)
+2. canciones
+
+recordatorio de solo ver en telefono
